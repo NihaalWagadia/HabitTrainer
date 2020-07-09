@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HabitTrainer</string>
+    <string name="drink_water">Drink Water</string>
+    <string name="Drink">Drink water</string>
+    <string name="Description">A refreshing glass of water keeps you hydrated!</string>
+</resources>
