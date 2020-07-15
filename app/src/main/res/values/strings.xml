@@ -3,4 +3,19 @@
     <string name="drink_water">Drink Water</string>
     <string name="Drink">Drink water</string>
     <string name="Description">A refreshing glass of water keeps you hydrated!</string>
+    <string name="begin_habit">Begin new habit...</string>
+    <string name="title_activity_create_habits">CreateHabitsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="choose_image">Choose image</string>
+    <string name="selected_image">Selected Image</string>
+    <string name="save">save</string>
 </resources>
